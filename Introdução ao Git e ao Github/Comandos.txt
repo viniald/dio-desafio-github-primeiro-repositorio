@@ -1,0 +1,14 @@
+Clonar o projeto
+git clone <caminho do projeto>
+
+Verificar status
+git status
+
+Adicionar novos arquivos ou pastas para ser comitados
+git add .
+
+Realizar o commit
+git commit -m  "COmentario do commit"
+
+Enviar alteraçoes locais para o GIt(push)
+git push origin main
